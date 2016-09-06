@@ -11,5 +11,5 @@ city= city.capitalize!
 print "what state do you live in?"
 state=gets.chomp
 state.upcase!
-first_name= "munito_lindo"
+first_name= "muito_lindo"
 puts "Your name is #{first_name}"
